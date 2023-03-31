@@ -1,0 +1,34 @@
+{
+  "greetings": {
+    "hello": "Hello, Welcome to our chatbot. How may I assist you today?",
+    "hi": "Hi, how can I help you?",
+    "hey": "Hey! How can I assist you today?",
+    "good morning": "Very Good Morning! Have a nice day",
+    "good afternoon": "Good Noon!",
+    "good evening": "Good Evening!",
+    "good night": "Good Night!"
+  },
+  "learning": {
+    "python": [
+      "https://docs.python.org/3/tutorial/",
+      "https://www.w3schools.com/python/",
+      "https://www.geeksforgeeks.org/python-programming-language/"
+    ],
+    "bigdata": ["https://www.analyticsvidhya.com/resources-big-data/"],
+    "aws": ["https://aws.amazon.com/devops/"],
+    "azure": ["https://learn.microsoft.com/en-us/azure/developer/"],
+    "machinelearning": ["https://scikit-learn.org/stable/"]
+  },
+  "world_clock": {
+    "india": "Asia/Kolkata",
+    "australia": "Australia/Brisbane",
+    "usa": "America/Chicago",
+    "uk": "Europe/London"
+  },
+  "math": {
+    "sum": "+",
+    "subtract": "-",
+    "division": "*",
+    "multiplication": "/"
+  }
+}
